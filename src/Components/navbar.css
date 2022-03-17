@@ -1,0 +1,49 @@
+        .navbar {
+            position: relative;
+            background-color: rgba(0, 0, 0, 0);
+        }
+        
+        .main {
+            width: 100%;
+            height: 10vh;
+            position: fixed;
+            top: 0;
+            z-index: 5;
+            background-color: rgba(0, 0, 0, 0);
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+        }
+        
+        .main__1 {
+            background-color: rgba(0, 0, 0, 0.9);
+        }
+        
+        .navbar .img {
+            width: 130px;
+            height: auto;
+            object-fit: contain;
+            background-color: rgba(0, 0, 0, 0);
+            margin-left: 10px;
+        }
+        
+        .navbar .button {
+            background-color: rgba(0, 0, 0, 0);
+        }
+        
+        .navbar .button .left {
+            width: 120px;
+            height: 30px;
+            border: 1px solid white;
+            border-radius: 3px;
+            margin-right: 20px;
+        }
+        
+        .navbar .button .right {
+            width: 70px;
+            height: 30px;
+            border: none;
+            border-radius: 3px;
+            margin-right: 20px;
+            background-color: red;
+        }
