@@ -32,7 +32,8 @@ function App() {
       <Rows title='TOP RATED' fetchRequest={re.fetchTopRated}/>
       <Rows title='ACTION MOVIES' fetchRequest={re.fetchActionMovies}/> 
 
-      <h1></h1>
+      <h1>krishna</h1>
+      <h2>sai</h2>
     </div>
   );
 }
