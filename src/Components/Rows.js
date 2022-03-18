@@ -10,6 +10,7 @@ const opts = {
         // https://developers.google.com/youtube/player_parameters
         autoplay: 1,
 
+        
     },
 };
 //  krishna sai andnan 
